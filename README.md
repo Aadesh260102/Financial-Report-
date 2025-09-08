@@ -1,4 +1,4 @@
-# 📊 Financial Dashboard – Power BI
+# 📊 Financial Dashboard 
 
 ## 📌 Project Overview
 This project presents an **interactive Financial Dashboard** built in **Power BI**, designed to analyze **Sales, Profit, and Cost of Goods Sold (COGS)** across multiple dimensions such as **Product, Country, and Segment**.  
